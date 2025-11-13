@@ -1,0 +1,8 @@
+1. Implement the inorder preorder postorder without recursion(iteratively)
+
+2. Delete the specific node from undirected graph.
+
+3. Implement the infix to postfix and prefix using Stack
+4. Reverse the singly linked list 
+
+5. Sort the Singly Linked List  ✅
