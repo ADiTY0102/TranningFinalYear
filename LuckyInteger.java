@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+// Lucky Integer is an integer which has a frequency in the array equal to its value.
 public class LuckyInteger {
     public static void main(String[] args) {
         int arr[] = {1, 2, 2, 3, 3};
