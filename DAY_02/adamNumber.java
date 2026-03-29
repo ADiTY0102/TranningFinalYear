@@ -26,3 +26,5 @@ public class adamNumber {
         }
     }
 }
+// adams number is the number whose square is the reverse of the number 
+//example: 12*12 = 144 and reverse of 12 is 21 and reverse of 144 is 441
