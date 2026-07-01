@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /* https://www.youtube.com/watch?v=TyRmYTcyuHQ (1:15:25 - end)
  * Question: 
- * N numbere of bulbs initiallyy off 
+ * N numbere of bulbs initially off 
  * toggle all the bulbs 
  * toggle all the 2nd bulbs
  * toggle all the 3rd bulbs
